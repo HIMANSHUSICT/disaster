@@ -14,3 +14,4 @@ ML Pipeline In a Python script, train_classifier.py, write a machine learning pi
 
 Flask Web App We will be taking the user message and classify them into 36 categories. There are some beautiful visualization of the data as well
 this is my 5th commit 
+ GITHUB REPO link : https://github.com/HIMANSHUSICT/disaster
